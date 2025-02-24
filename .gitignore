@@ -11,3 +11,6 @@ wheels/
 .DS_Store
 *.pth
 *.tflite
+
+.gradle/
+.kotlin/
